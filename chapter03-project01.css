@@ -1,0 +1,75 @@
+body {background-color: rgb(54, 54, 54)}
+header {
+    color: white;
+    background-color: #3d6271;
+    margin: 0em 4em 0em 4em;
+    padding: 5px;    
+}
+#title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    font-weight: bold; 
+}
+#title-below {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    padding: 5px;
+}
+nav {
+    color: aqua;
+    background-color: rgb(143, 150, 150);
+    margin: 0em 4em 1em 4em;
+    padding: 5px;
+    font-weight: bold;
+}
+article {
+    background-color: white;
+    margin: 1em 4em;
+    padding: 7px;
+}
+#Description {
+    border: solid 1pt white;
+    border-bottom-color: gray;
+    padding: 0;
+    font-size: 17px;
+}
+.note {
+    color: gray;
+    font-style: italic;
+    margin: 5px 0em;
+    font-size: 15px;
+}
+#image {
+    border-block-style: initial;
+    margin: 4px 1em 0em 0em;
+}
+#Related-Photos {
+    border: solid 1pt white;
+    border-bottom-color: gray;
+    padding: 0;
+    font-size: 17px;
+}
+#other-image {
+    margin: 8px 0px;
+}
+#Reviews {
+    border: solid 1pt white;
+    border-bottom-color: gray;
+    padding: 0;
+    font-size: 17px;
+}
+.note2{
+    color: gray;
+    font-style: italic;
+    margin: 5px 0em 0em 0em;
+    font-size: 15px;
+}
+time {
+    font-family: 'Times New Roman', Times, serif;
+}
+footer {
+    color: white;
+    background-color: #3d6271;
+    margin: 0em 8em 1em 4em;
+    padding: 10px;
+}
