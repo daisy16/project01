@@ -1,0 +1,94 @@
+header {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+#logo {
+    position: relative; left: 12em;
+}
+.nav {
+    float: right;
+    font-weight: bold;
+    position: relative; right: 12em; top: 13px;
+}
+#nave1 {
+    background-color:  rgba(36, 9, 9, 0.61);
+}
+#nave2 {
+    background-color: rgba(54, 18, 15, 0.479);
+}
+#nave3 {
+    background-color: rgba(94, 31, 27, 0.308);
+}
+#nave4 {
+    background-color: rgba(104, 53, 33, 0.219);
+}
+#banner {
+    background-color: rgba(63, 20, 17, 0.438);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#bannerp {
+    position: relative; left: 16%;
+}
+#project, .title1 {
+    position: relative; top: 5px; left: 43%;
+    color: rgba(22, 6, 6, 0.945);
+    font-size: 35px;
+}
+.p {
+    width: 300px; height: 400px;
+}
+.c {
+    font-size: 15px;
+}
+.contact {
+    background-image: url(../project01/img/end.jpg);
+    background-size: 83em 68em;
+}
+#email {
+    position: relative; left: 31%; 
+    background-color: rgba(255, 255, 255, 0.911);
+    padding-left: 10em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 62%;
+}
+#form {
+    background-color: rgba(255, 255, 255, 0.411);
+    position: relative; left: 31%; 
+    padding-left: 11em;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-right: 62%;
+}
+#t2 {
+    background-color: rgba(255, 255, 255, 0.562);
+    position: relative; left: 31%;
+    width: 32em;
+    margin-bottom: 11em;
+}
+footer {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 0em;
+    padding-bottom: 2em;
+    font-size: 10px;
+}
+#f1 {
+    position: relative; left: 40%;
+}
+#f2 {
+    position: relative; left: 43.5%;
+}
+.bar-chat {
+    text-align: center;
+    font-size: 25px;
+    height: 50px;
+    font-weight: 500;
+    line-height: 40px;
+}
+.bar-chat {
+    background-image: url(../project01/img/地图.png);
+    background-size: cover;
+}
+

@@ -1,0 +1,48 @@
+body {
+    background-image: url('../project01/img/背景图1.jpg');
+    background-size: 45em 45em;
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+}
+header {
+    background-color: rgba(255, 255, 255, 0.932);
+    margin: 0em 20em 4em 4em;
+    padding: 20px;
+}
+#title {
+    font-family: fantasy;
+    font-size: 28px;
+}
+#title-below {
+    margin: 5px 0 8px 0;
+    font-size: 15px;
+}
+article {
+    margin: 2em 5em 2em 4em;
+}
+h2 {
+    background-color: rgba(255, 255, 255, 0.705);
+    font-size: 20px;
+    margin: 0 6.5em 0 0;
+    padding: 15px;
+}
+.content {
+    background-color: rgba(255, 255, 255, 0.397);
+    padding: 20px;
+    font-size: 20px;
+    margin: 0 6.5em 0 0;
+    height: 80px;
+    font-weight: 600;
+}
+.content p {
+    background-color: rgba(43, 43, 43, 0.596);
+    padding: 10px;
+    color: white;
+    margin: 15px 3em 5px 3px;
+}
+#share {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 0 6.5em 1em 0;
+    font-size: 20px;
+    padding: 15px;
+}
